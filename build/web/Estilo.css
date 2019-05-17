@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17/05/2019, 13:01:37
+    Author     : Kewen Sorge
+*/
+body{
+    text-align: center;
+    font-family:Times New Roman, Times, serif;
+}
+div{
+border:5px solid black;
+}
+#Quadrado{
+    background-color:rgb(135,206,235);
+}
+#Triangulo{
+    background-color:rgb(102,205,170);
+}
+#Retangulo{
+    background-color:rgb(154,205,50);
+}

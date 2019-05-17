@@ -1,0 +1,3 @@
+create table retangulo(id int AUTO_INCREMENT PRIMARY key ,area double)
+create table quadrado(id int AUTO_INCREMENT PRIMARY key ,area double)
+create table triangulo(id int AUTO_INCREMENT PRIMARY key ,area double)
